@@ -1,0 +1,10 @@
+{
+	"manifest_version": 3,
+	"name": "Link Highlighter & Word Counter",
+	"version": "1.0",
+	"description": "Highlights links and counts words using React, TypeScript, and Tailwind CSS.",
+	"action": {
+		"default_popup": "index.html"
+	},
+	"permissions": ["activeTab", "scripting"]
+}
